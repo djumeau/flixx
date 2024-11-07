@@ -1,0 +1,14 @@
+{
+  "name": "flixx",
+  "version": "1.0.0",
+  "description": "Movie Directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Jumeau",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^5.4.10"
+  }
+}
